@@ -1,0 +1,29 @@
+footer{
+    height: 200px;
+    background-color: black;
+    color: white;
+    > div{
+        display: flex;       
+        align-items: center;
+        margin: 0rem 10rem;
+        > h3{
+            margin: 5rem 10rem;
+        }
+
+        > div{
+            display: flex;
+          svg{
+            margin: 0.5rem;
+            color: white;
+            font-size: 2rem;
+          }
+        }
+
+        >div{
+            svg{
+            color: white;
+
+            }
+        }
+    }
+}

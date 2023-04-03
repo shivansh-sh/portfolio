@@ -1,0 +1,36 @@
+{
+    "projects":[
+        {
+            "title":"Star Trek",
+            "description":"This is a simple responsive web app revolving around a quote called Kobayashi maru from the movie star trek",
+            "url":"https://project-1-swart-nine.vercel.app/",
+            "imgSrc":"https://images.pexels.com/photos/23769/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "title":"Videohub",
+            "description":"This web app is a video app and we uses chakra ui in this to bring some awesome functions in it like the night theme and use of a carousel",
+            "url":"https://react-videohub-xi.vercel.app/",
+            "imgSrc":"https://images.pexels.com/photos/6615072/pexels-photo-6615072.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "title":"CRYPTOwala",
+            "description":"This is a crypto information providing app and we ease out your crypto trading by giving you the exact guidance you are seeking, because we got your back",
+            "url":"https://react-cryptowala.vercel.app/",
+            "imgSrc":"https://www.freepnglogos.com/uploads/bitcoin-png/bitcoin-prussiaart-vadim-deviantart-16.png"
+        },
+        {
+            
+            "title":"CARTSTORE",
+            "description":"In this web app we use redux to demonstrate how we are adding items in the cart and how its state is changing",
+            "url":"https://react-cartstore.vercel.app/",
+            "imgSrc":"https://images.pexels.com/photos/1488463/pexels-photo-1488463.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            
+            "title":"PORTFOLIO",
+            "description":"This portfolio is about the projects that i have make and showing them to the world",
+            "url":"/",
+            "imgSrc":"https://images.pexels.com/photos/5690488/pexels-photo-5690488.jpeg?auto=compress&cs=tinysrgb&w=600"
+        }
+    ]
+}
